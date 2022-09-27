@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](https://code.earthengine.google.com/?scriptPath=users%2Falejandraslopezcamero%2Fdefault%3AAssingment11)
+<img src="https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/videoThumbnails/f920f3ea2098f650c3eeefc79c6532c9-2509f6ba264d039bcf76f981d1d84281:getPixels"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
